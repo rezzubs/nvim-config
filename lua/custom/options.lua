@@ -4,6 +4,7 @@ o.hlsearch = false
 o.mouse = 'a'
 o.number = true
 o.relativenumber = true
+o.scrolloff = 10
 
 o.clipboard = "unnamedplus"
 o.breakindent = true
@@ -16,3 +17,4 @@ o.timeoutlen = 300
 
 -- Visual
 o.termguicolors = true
+o.signcolumn = 'yes'
