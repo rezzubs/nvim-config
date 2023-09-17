@@ -4,3 +4,4 @@ vim.g.maplocalleader = ' '
 
 require "custom/lazy"
 require "custom/options"
+require "custom/keymap"
